@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+timm
+pydicom
+transformers
+accelerate
+matplotlib
